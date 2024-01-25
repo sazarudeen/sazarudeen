@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Azar</h1>
 <h3 align="center">A passionate Backend Java developer from India</h3>
 
-## Project: Employee-User-Management-Jwt
+### Projects List : 
+
+## Project - 1 : Employee-User-Management-Jwt
 
 **Employee-User-Management-Jwt** is a comprehensive tool for efficiently handling employee skills and to-do activities. The application features a React frontend and a Spring Boot backend with JWT authentication.
 
