@@ -1,14 +1,42 @@
 
-🚀 **Spring Boot Developer**
-
-Welcome to the GitHub repository of my Spring Boot project! This application efficiently manages employee skills and to-do activities using a React frontend and a Spring Boot backend with JWT authentication.
-
-Feel free to explore the code and contribute to the project!
-
 <h1 align="center">Hi 👋, I'm Azar</h1>
 <h3 align="center">A passionate Backend Java developer from India</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sazarudeen" /> </p>
+## Project: Employee-User-Management-Jwt
+
+**Employee-User-Management-Jwt** is a comprehensive tool for efficiently handling employee skills and to-do activities. The application features a React frontend and a Spring Boot backend with JWT authentication.
+
+### Overview
+
+The application focuses on providing a comprehensive tool for handling employee skills and to-do activities through the implementation of essential CRUD operations. The frontend is developed using React JS, offering a user-friendly interface, while the backend leverages the power of Spring Boot to ensure robust and efficient server-side functionality.
+
+### Key Features
+
+- **Skills Management:**
+  - Update, delete, view, and create skills.
+  - Search functionality for efficient skill retrieval.
+
+- **Todo Management:**
+  - Update, delete, view, and create to-dos.
+  - Search functionality for efficient to-do retrieval.
+
+- **Authentication:**
+  - Utilizes JWT for secure user authentication.
+  - Fully functional login system.
+
+### Technology Stack
+
+- **Frontend:** React JS
+- **Backend:** Spring Boot
+- **Authentication:** JWT (JSON Web Token)
+- **Database:** Microsoft SQL Server
+- **Caching:** Redis
+
+**Repository Name**  - Employee-User-Management-Jwt
+  
+Feel free to explore the code and contribute to the project!
+
+<p align="right"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding" /> </p>
 
 - 🔭 I’m currently working on **Exterro**
 
