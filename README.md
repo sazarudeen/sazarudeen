@@ -40,7 +40,7 @@ Feel free to explore the code and contribute to the project!
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding" /> </p>
 
-- 🔭 I’m currently working on **Exterro**
+- 🔭 I’m currently working on **Data Management Project** in **Exterro**
 
 - 🌱 I’m currently learning **React Js,Spring boot**
 
