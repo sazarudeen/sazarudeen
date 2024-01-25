@@ -36,7 +36,7 @@ The application focuses on providing a comprehensive tool for handling employee 
   
 Feel free to explore the code and contribute to the project!
 
-<p align="right"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding" /> </p>
 
 - 🔭 I’m currently working on **Exterro**
 
