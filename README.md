@@ -35,6 +35,10 @@ The application focuses on providing a comprehensive tool for handling employee 
 - **Caching:** Redis
 
 **Repository Name**  - Employee-User-Management-Jwt
+
+### Project Documentation
+
+Explore the detailed documentation [here](https://docs.google.com/document/d/1RUgL3yXdoaMjxsvjnqee-93-7xZOCJd0J2PuZ-lQIr0/edit).
   
 Feel free to explore the code and contribute to the project!
 
