@@ -30,7 +30,7 @@ The application focuses on providing a comprehensive tool for handling employee 
 
 - **Frontend:** React JS
 - **Backend:** Spring Boot
-- **Authentication:** JWT (JSON Web Token)
+- **Authentication:** Spring Security & JWT (JSON Web Token)
 - **Database:** Microsoft SQL Server
 - **Caching:** Redis
 
